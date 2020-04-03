@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1570119466 source:c:\users\yanina\documents\yani\yani\utn\programacionuno\tps\tp2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesBasicas.h"
+	"funcionesEmpleados.h"
+	"funcionesAuxiliares.h"
+
+1569627855 source:d:\syridiana\programacionuno\programacionuno\tps\tp2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1569891750 source:d:\yani\programacionuno\tps\tp2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1569985534 source:d:\documentos d\facu\utn\programacionuno\tps\tp2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570119229 source:c:\users\yanina\documents\yani\yani\utn\programacionuno\tps\tp2\tp2\funcionesempleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesBasicas.h"
+	"funcionesEmpleados.h"
+	"funcionesAuxiliares.h"
+
+1570119228 source:c:\users\yanina\documents\yani\yani\utn\programacionuno\tps\tp2\tp2\funcionesbasicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesBasicas.h"
+	"funcionesEmpleados.h"
+	"funcionesAuxiliares.h"
+
+1570118718 c:\users\yanina\documents\yani\yani\utn\programacionuno\tps\tp2\tp2\funcionesbasicas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570119059 c:\users\yanina\documents\yani\yani\utn\programacionuno\tps\tp2\tp2\funcionesempleados.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570119245 source:c:\users\yanina\documents\yani\yani\utn\programacionuno\tps\tp2\tp2\funcionesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesBasicas.h"
+	"funcionesEmpleados.h"
+	"funcionesAuxiliares.h"
+
+1570119291 c:\users\yanina\documents\yani\yani\utn\programacionuno\tps\tp2\tp2\funcionesauxiliares.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570139723 source:d:\yani\programacionuno\tps\tp2\funcionesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesBasicas.h"
+	"funcionesEmpleados.h"
+	"funcionesAuxiliares.h"
+
+1570139723 d:\yani\programacionuno\tps\tp2\funcionesbasicas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570144338 d:\yani\programacionuno\tps\tp2\funcionesempleados.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570144405 d:\yani\programacionuno\tps\tp2\funcionesauxiliares.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570139723 source:d:\yani\programacionuno\tps\tp2\funcionesbasicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesBasicas.h"
+	"funcionesEmpleados.h"
+	"funcionesAuxiliares.h"
+
+1570219106 source:c:\users\yanina\documents\yani\yani\utn\tp2_laboratorio_1\tp2\funcionesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesBasicas.h"
+	"ArrayEmployees.h"
+	"funcionesAuxiliares.h"
+
+1570219106 c:\users\yanina\documents\yani\yani\utn\tp2_laboratorio_1\tp2\funcionesbasicas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570204061 c:\users\yanina\documents\yani\yani\utn\tp2_laboratorio_1\tp2\funcionesempleados.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570219507 c:\users\yanina\documents\yani\yani\utn\tp2_laboratorio_1\tp2\funcionesauxiliares.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570219382 source:c:\users\yanina\documents\yani\yani\utn\tp2_laboratorio_1\tp2\funcionesbasicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesBasicas.h"
+	"ArrayEmployees.h"
+	"funcionesAuxiliares.h"
+
+1570220246 source:c:\users\yanina\documents\yani\yani\utn\tp2_laboratorio_1\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesBasicas.h"
+	"ArrayEmployees.h"
+	"funcionesAuxiliares.h"
+
+1570204654 source:c:\users\yanina\documents\yani\yani\utn\tp2_laboratorio_1\tp2\funcionesempleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesBasicas.h"
+	"funcionesEmpleados.h"
+	"funcionesAuxiliares.h"
+
+1570219106 c:\users\yanina\documents\yani\yani\utn\tp2_laboratorio_1\tp2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570219106 source:c:\users\yanina\documents\yani\yani\utn\tp2_laboratorio_1\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesBasicas.h"
+	"ArrayEmployees.h"
+	"funcionesAuxiliares.h"
+

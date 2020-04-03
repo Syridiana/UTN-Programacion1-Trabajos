@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1574388734 source:d:\documentos d\facu\utn\programacionuno\tps\tp4 - pruebas de uso\tp3_laboratorio_1\tp 4\employee.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Employee.h"
+
+1574038877 d:\documentos d\facu\utn\programacionuno\tps\tp4 - pruebas de uso\tp3_laboratorio_1\tp 4\employee.h
+
+1574038877 source:d:\documentos d\facu\utn\programacionuno\tps\tp4 - pruebas de uso\tp3_laboratorio_1\tp 4\funcionesvalidacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesValidacion.h"
+
+1574038877 d:\documentos d\facu\utn\programacionuno\tps\tp4 - pruebas de uso\tp3_laboratorio_1\tp 4\funcionesvalidacion.h
+
+1574038877 source:d:\documentos d\facu\utn\programacionuno\tps\tp4 - pruebas de uso\tp3_laboratorio_1\tp 4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1574385288 d:\documentos d\facu\utn\programacionuno\tps\tp4 - pruebas de uso\tp3_laboratorio_1\tp 4\linkedlist.h
+
+1574389512 source:d:\documentos d\facu\utn\programacionuno\tps\tp4 - pruebas de uso\tp3_laboratorio_1\tp 4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"funcionesValidacion.h"
+	"parser.h"
+	"Controller.h"
+
+1574038877 d:\documentos d\facu\utn\programacionuno\tps\tp4 - pruebas de uso\tp3_laboratorio_1\tp 4\parser.h
+
+1574038877 d:\documentos d\facu\utn\programacionuno\tps\tp4 - pruebas de uso\tp3_laboratorio_1\tp 4\controller.h
+	"Employee.h"
+
+1574387535 source:d:\documentos d\facu\utn\programacionuno\tps\tp4 - pruebas de uso\tp3_laboratorio_1\tp 4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574389548 source:d:\documentos d\facu\utn\programacionuno\tps\tp4 - pruebas de uso\tp3_laboratorio_1\tp 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"funcionesValidacion.h"
+
+1574437501 source:c:\users\yanina\documents\yani\yani\utn\tp4_laboratorio_1\tp 4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"funcionesValidacion.h"
+	"parser.h"
+	"Controller.h"
+
+1574435245 c:\users\yanina\documents\yani\yani\utn\tp4_laboratorio_1\tp 4\linkedlist.h
+
+1574435245 c:\users\yanina\documents\yani\yani\utn\tp4_laboratorio_1\tp 4\employee.h
+
+1574438481 c:\users\yanina\documents\yani\yani\utn\tp4_laboratorio_1\tp 4\funcionesvalidacion.h
+
+1574435245 c:\users\yanina\documents\yani\yani\utn\tp4_laboratorio_1\tp 4\parser.h
+
+1574436273 c:\users\yanina\documents\yani\yani\utn\tp4_laboratorio_1\tp 4\controller.h
+	"Employee.h"
+
+1574436315 source:c:\users\yanina\documents\yani\yani\utn\tp4_laboratorio_1\tp 4\employee.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Employee.h"
+
+1574438585 source:c:\users\yanina\documents\yani\yani\utn\tp4_laboratorio_1\tp 4\funcionesvalidacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesValidacion.h"
+
+1574436393 source:c:\users\yanina\documents\yani\yani\utn\tp4_laboratorio_1\tp 4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574437053 source:c:\users\yanina\documents\yani\yani\utn\tp4_laboratorio_1\tp 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"funcionesValidacion.h"
+
+1574435245 source:c:\users\yanina\documents\yani\yani\utn\tp4_laboratorio_1\tp 4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
